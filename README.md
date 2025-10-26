@@ -14,7 +14,7 @@ Kullanıcıların farklı bilgisayar bileşenlerini seçerek kendi PC yapıları
 - (Gerekiyorsa) Ek kütüphaneler: ESLint, …  
 - Veri katmanı ve backend örneği içeriyorsa belirtilebilir (örneğin: REST API, JSON dosyası vb)
 
-##🧑‍💻 Proje Özellikleri
+## 🧑‍💻 Proje Özellikleri
 
 Bilgisayar bileşeni kategorilerinin listelenmesi
 
