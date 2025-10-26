@@ -19,4 +19,5 @@ Kullanıcıların farklı bilgisayar bileşenlerini seçerek kendi PC yapıları
    ```bash  
    git clone https://github.com/KutaySoker/PC_Builder.git
 2. Uygulamayı derle
+   ```bash  
    npm run dev
