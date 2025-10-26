@@ -17,4 +17,6 @@ Kullanıcıların farklı bilgisayar bileşenlerini seçerek kendi PC yapıları
 ## 🚀 Kurulum & Çalıştırma  
 1. Depoyu yerel olarak klonlayın:  
    ```bash  
-   git clone https://github.com/KutaySoker/PC_Builder.git  
+   git clone https://github.com/KutaySoker/PC_Builder.git
+2. Uygulamayı derle
+   npm run dev
